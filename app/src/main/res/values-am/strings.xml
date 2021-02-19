@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ባ/ዞ/ከ/ፍርድ ቤት</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">መነሻ ገጽ</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">የተንሸራታች ትዕይንት</string>
+    <string name="menu_tools">ቋንቋ ቀይር</string>
+    <string name="menu_share">ያጋሩ</string>
+    <string name="menu_send">ላክ</string>
+    <string name="lawyer">ነገረፈጅ</string>
+    <string name="client">ደንበኛ</string>
+    <string name="contact_us"> አግኙን</string>
+    <string name="about_us"> ስለ እኛ</string>
+    <string name="exit"> መውጫ</string>
+    <string name="register">ይመዝገቡ</string>
+    <string name="title_activity_clienthome">Clienthome</string>
+    <string name="logout">ውጣ</string>
+    <string name="title_activity_lawyerhome">lawyerhome</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="progress_detail" />
+    <string name="view_appointmnet">ቀጠሮ ይመልከቱ</string>
+    <string name="give_appointment_comment">የቀጠሮ አስተያየት ይስጡ</string>
+    <string name="communicate">መግባባት</string>
+    <string name="client_name">የደንበኛ ስም</string>
+    <string name="email">ኢሜል</string>
+    <string name="contact_no">ስልክ ቁጥር</string>
+    <string name="fetch_match_data">የመዛመጃ ውሂብ አምጣ</string>
+    <string name="enter_your_fullname">ሙሉ ስምዎን ያስገቡ</string>
+    <string name="enter_your_address">አድራሻዎን ያስገቡ</string>
+    <string name="enter_your_city">ከተማዎን ይግቡ</string>
+    <string name="male">ወንድ</string>
+    <string name="female">ሴት</string>
+    <string name="enter_correct_email">ትክክለኛ ኢሜል ያስገቡ</string>
+    <string name="enter_password">የይለፍ ቃል ያስገቡ</string>
+    <string name="enter_password_again"> እንደገና የይለፍ ቃል ያስገቡ</string>
+    <string name="registerl">ይመዝገቡ</string>
+    <string name="already_have_account_login_here">ቀድሞውኑ መለያ አለዎት? እዚህ ይግቡ</string>
+    <string name="enter_your_name">ስምዎን ያስገቡ</string>
+    <string name="enter_correct_emaill">ትክክለኛ ኢሜል ያስገቡ</string>
+    <string name="enter_your_phone_number">ስልክ ቁጥርዎን ያስገቡ</string>
+    <string name="write_your_appointment_comment_here">የቀጠሮ አስተያየትዎን እዚህ ይፃፉ</string>
+    <string name="submit">አስገባ</string>
+    <string name="enter_your_namec">ስምዎን ያስገቡ</string>
+    <string name="enter_correct_emailc">ትክክለኛ ኢሜል ያስገቡ</string>
+    <string name="enter_your_phone_numberc">ስልክ ቁጥርዎን ያስገቡ</string>
+    <string name="write_your_subject_herec">ርዕሰ-ጉዳይዎን እዚህ ይፃፉ</string>
+    <string name="submitc">አስገባ</string>
+    <string name="enter_your_namecu">ስምዎን ያስገቡ</string>
+    <string name="enter_correct_emailcu">ትክክለኛ ኢሜል ያስገቡ</string>
+    <string name="enter_your_phone_numbercu">ስልክ ቁጥርዎን ያስገቡ</string>
+    <string name="write_your_subject_herecu">ርዕሰ-ጉዳይዎን እዚህ ይፃፉ</string>
+    <string name="submitcu">አስገባ</string>
+    <string name="case_typel">የጉዳይ ዓይነት</string>
+    <string name="lawyer_namel">የሕግ ባለሙያ ስም</string>
+    <string name="fetch_match_datal">የመዛመጃ ውሂብ አምጣ</string>
+    <string name="enter_correct_emailll">ትክክለኛ ኢሜል ያስገቡ</string>
+    <string name="enter_passwordl">የይለፍ ቃል ያስገቡ</string>
+    <string name="loginl">ግባ</string>
+    <string name="enter_your_namelc">ስምዎን ያስገቡ</string>
+    <string name="enter_correct_emaillc">ትክክለኛ ኢሜል ያስገቡ</string>
+    <string name="enter_your_phone_numberlc">ስልክ ቁጥርዎን ያስገቡ</string>
+    <string name="write_your_appointment_comment_herelc">የቀጠሮ አስተያየትዎን እዚህ ይፃፉ</string>
+    <string name="submitlc">አስገባ</string>
+    <string name="enter_your_namelcu">ስምዎን ያስገቡ</string>
+    <string name="enter_correct_emaillcu">ትክክለኛ ኢሜል ያስገቡ</string>
+    <string name="enter_your_phone_numberlcu">ስልክ ቁጥርዎን ያስገቡ</string>
+    <string name="write_your_subject_herelcu">ርዕሰ-ጉዳይዎን እዚህ ይፃፉ</string>
+    <string name="submitlcu">አስገባ</string>
+    <string name="enter_correct_emailcl">ትክክለኛ ኢሜል ያስገቡ</string>
+    <string name="enter_passwordcl">የይለፍ ቃል ያስገቡ</string>
+    <string name="logincl">ግባ</string>
+    <string name="if_you_don_t_have_an_account_yet_register_here">እስካሁን መለያ ከሌለዎት እዚህ ይመዝገቡ ፡፡</string>
+    <string name="contact_uscl">አግኙን</string>
+    <string name="view_appointmnetlr">ቀጠሮ ይመልከቱ</string>
+    <string name="give_appointment_commentlr">የቀጠሮ አስተያየት ይስጡ</string>
+    <string name="communicatelr">መግባባት</string>
+    <string name="contact_uslr">አግኙን</string>
+    <string name="loginh">ግባ</string>
+    <string name="changeh"> ለውጥ</string>
+    <string name="communicateh">መግባባት</string>
+    <string name="shareusing">አጋራ በመጠቀም</string>
+    <string name="shareusingl">አጋራ በመጠቀም</string>
+    <string name="shareusingh">አጋራ በመጠቀም</string>
+    <string name="lawyerName">የሕግ ባለሙያ ስም =</string>
+    <string name="appdate"> የቀጠሮ ቀን =</string>
+    <string name="apptime">የቀጠሮ ጊዜ =</string>
+    <string name="plsenterdetail">እባክዎ ዝርዝር ያስገቡ</string>
+    <string name="pleaseenter">እባክዎ ዝርዝር ያስገቡ</string>
+    <string name="cltname">የደንበኛ ስም =</string>
+    <string name="cltema">የደንበኛ ኢሜል =</string>
+    <string name="cltadd">የደንበኛ አድራሻ =</string>
+    <string name="cltapp">የቀጠሮ ቀን =</string>
+    <string name="clttim">የቀጠሮ ጊዜ =</string>
+    <string name="cum">እኛን ያግኙን</string>
+    <string name="gacm">የቀጠሮ አስተያየት ይስጡ</string>
+    <string name="sappm">ቀጠሮ ይፈልጉ</string>
+    <string name="contusm">እኛን ያግኙን</string>
+    <string name="givcomm">የቀጠሮ አስተያየት ይስጡ</string>
+    <string name="sapptmtm">ቀጠሮ ይፈልጉ</string>
+    <string name="lawrhpagm">የሕግ ባለሙያ መነሻ ገጽ</string>
+    <string name="clthmpgm">የደንበኛ መነሻ ገጽ</string>
+    <string name="aboutussss"> ስለ እኛ</string>
+    <string name="contacttusm">አግኙን</string>
+    <string name="hommme">መነሻ ገጽ</string>
+    <string name="cantlogin">የሆነ ስህተት ተከስቷል በመለያ መግባት አልተቻለም</string>
+    <string name="swwcantlog">የሆነ ስህተት ተከስቷል በመለያ መግባት አልተቻለም</string>
+    <string name="datanotinsrtd">የሆነ ስህተት ተከስቷል ውሂብ አልገባም ፡፡</string>
+    <string name="msure">የይለፍ ቃልዎን ለማረጋገጥ የይለፍ ቃልዎ ተመሳሳይ መሆኑን ያረጋግጡ</string>
+    <string name="fillall">ሁሉንም መስኮች ይሙሉ</string>
+    <string name="swwwdwninsrtd">የሆነ ስህተት ተከስቷል ውሂብ አልገባም ፡፡</string>
+    <string name="sentsucces">አስተያየት በተሳካ ሁኔታ ተልኳል።</string>
+    <string name="swwmdatanot">የሆነ ስህተት ተከስቷል ውሂብ አልገባም ፡፡</string>
+    <string name="msgsentt">መልእክት ተልኳል</string>
+    <string name="swentwro">የሆነ ስህተት ተከስቷል ውሂብ አልገባም ፡፡</string>
+    <string name="messagsnt">መልእክት ተልኳል</string>
+    <string name="swnetwrong">የሆነ ስህተት ተከስቷል ውሂብ አልገባም ፡፡</string>
+    <string name="commsentsucss">አስተያየት በተሳካ ሁኔታ ተልኳል።</string>
+    <string name="smntwentwrogn">የሆነ ስህተት ተከስቷል ውሂብ አልገባም ፡፡</string>
+    <string name="msgsented">መልእክት ተልኳል</string>
+    <string name="change_languagem">ቋንቋ ቀይር</string>
+    <string name="change_languagel">ቋንቋ ቀይር</string>
+    <string name="change_languagec">ቋንቋ ቀይር</string>
+    <string name="respage">እዚህ ይመዝገቡ</string>
+</resources>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mana Murtii Olaanaa Godinaa Baalee</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Bafataa</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Qooqa jijjiiri</string>
+    <string name="menu_share">Ergii</string>
+    <string name="menu_send">Ergii</string>
+    <string name="lawyer">Abukaatoo</string>
+    <string name="client">Maamila</string>
+    <string name="contact_us">Nu Qunnamaa</string>
+    <string name="about_us">Odeeffannoo Keenyaf</string>
+    <string name="exit">cuufii</string>
+    <string name="register">Galmee</string>
+    <string name="title_activity_clienthome">Bafataa Maamila</string>
+    <string name="logout">Bahii</string>
+    <string name="title_activity_lawyerhome">Bafataa Abukaatoo</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="progress_detail" />
+    <string name="view_appointmnet">Beellama ilaalaa</string>
+    <string name="give_appointment_comment">Beellamaf yaada kennaa</string>
+    <string name="communicate">Walqunnamtii</string>
+    <string name="client_name">Maqaa Maamilaa</string>
+    <string name="email">Imeelii</string>
+    <string name="contact_no">Lakkoofsa Bilbilaa</string>
+    <string name="fetch_match_data">Data Walfakkaatuu</string>
+    <string name="enter_your_fullname">Maqaa guutuu galchaa</string>
+    <string name="enter_your_address">tessoo keessan galchaa</string>
+    <string name="enter_your_city">Magaalaa keessan galchaa</string>
+    <string name="male">Dhiiraa</string>
+    <string name="female">Dubara</string>
+    <string name="enter_correct_email">Imeelii sirrii galchaa</string>
+    <string name="enter_password">Lakkoofsa dhoksaa galchaa</string>
+    <string name="enter_password_again">Lakkoofsa dhoksaa irradeebiin galchaa</string>
+    <string name="registerl">Galmaahuf</string>
+    <string name="already_have_account_login_here">kanaan dura accounti qabda?seeni</string>
+    <string name="enter_your_name">Maqaa kee galchi</string>
+    <string name="enter_correct_emaill">Imeelii sirrii galchaa</string>
+    <string name="enter_your_phone_number">lakkofsa bilbila keessan galchaa</string>
+    <string name="write_your_appointment_comment_here">Yaada bellamaa barressi</string>
+    <string name="submit">galchi</string>
+    <string name="enter_your_namec">Maqaa keesan galchaa</string>
+    <string name="enter_correct_emailc">Imeelii sirrii galchaa</string>
+    <string name="enter_your_phone_numberc">lakkofsa bilbila keessan galchaa</string>
+    <string name="write_your_subject_herec">Ergaa keessan barressaa</string>
+    <string name="submitc">Galchi</string>
+    <string name="enter_your_namecu">Maqaa keessan galchaa</string>
+    <string name="enter_correct_emailcu">Imeelii sirrii galchaa</string>
+    <string name="enter_your_phone_numbercu">Lakkofsa bilbila keessan galchaa</string>
+    <string name="write_your_subject_herecu">Ergaa keessan barressaa</string>
+    <string name="submitcu">Galchi</string>
+    <string name="case_typel">Gosa himannaa</string>
+    <string name="lawyer_namel">Maqaa Abukatoo</string>
+    <string name="fetch_match_datal">Unkaa walfakkataa fidi</string>
+    <string name="enter_correct_emailll">Imeelii sirrii galchaa</string>
+    <string name="enter_passwordl">Lakkoofsa dhoksaa galchaa</string>
+    <string name="loginl">Seeni</string>
+    <string name="enter_your_namelc">Maqaa keessan galchaa</string>
+    <string name="enter_correct_emaillc">Imeelii sirrii galchaa</string>
+    <string name="enter_your_phone_numberlc">Lakkofsa bilbila keessan galchaa</string>
+    <string name="write_your_appointment_comment_herelc">write your appointment comment here</string>
+    <string name="submitlc">Galchi</string>
+    <string name="enter_your_namelcu">Maqaa keessan galchaa</string>
+    <string name="enter_correct_emaillcu">Imeelii sirrii galchaa</string>
+    <string name="enter_your_phone_numberlcu">Lakkofsa bilbila keessan galchaa</string>
+    <string name="write_your_subject_herelcu">Ergaa keessan barressaa</string>
+    <string name="submitlcu">Galchi</string>
+    <string name="enter_correct_emailcl">Imeelii sirrii galchaa</string>
+    <string name="enter_passwordcl">Lakkoofsa dhoksaa galchaa</string>
+    <string name="logincl">Seeni</string>
+    <string name="if_you_don_t_have_an_account_yet_register_here">Kana dura accounti yoo hin qabanne,Asitti galmaayi</string>
+    <string name="contact_uscl">Nu qunnamaa</string>
+    <string name="view_appointmnetlr">Bellamaa agarsiisi</string>
+    <string name="give_appointment_commentlr">yaada bellamaa kenni</string>
+    <string name="communicatelr">Walqunnamtii</string>
+    <string name="contact_uslr">Nu qunnamaa</string>
+    <string name="loginh">Seeni</string>
+    <string name="changeh">Jijjirii</string>
+    <string name="communicateh">Walqunnamtii</string>
+    <string name="shareusing">Qoodi fayyadamuudhan</string>
+    <string name="shareusingl">Qoodi fayyadamuudhan</string>
+    <string name="shareusingh">Qoodi fayyadamuudhan</string>
+    <string name="lawyerName">Maqaa Abukatoo =</string>
+    <string name="appdate">Guyyaa bellamaa =</string>
+    <string name="apptime">Yeroo bellamaa=</string>
+    <string name="plsenterdetail">Waligalaa isaa galchi</string>
+    <string name="pleaseenter">Waligalaa isaa galchi</string>
+    <string name="cltname">Maqaa Mamilaa =</string>
+    <string name="cltema">Imeeli Mamilaa =</string>
+    <string name="cltadd">Tessoo Mamilaa =</string>
+    <string name="cltapp">Guyyaa bellamaa=</string>
+    <string name="clttim">Yeroo bellamaa=</string>
+    <string name="cum">Nu qunnamaa</string>
+    <string name="gacm">yaada bellamaa kenni</string>
+    <string name="sappm">Bellamaa barbaadi</string>
+    <string name="contusm">Nu qunnamaa</string>
+    <string name="givcomm">yaada bellamaa kenni</string>
+    <string name="sapptmtm">Bellamaa barbaadi</string>
+    <string name="lawrhpagm">Fuula seensa Abukatoo</string>
+    <string name="clthmpgm">Fuula seensa Mamilaa</string>
+    <string name="aboutussss">Waayee keenya</string>
+    <string name="contacttusm">Nu qunnamaa</string>
+    <string name="hommme">Fuula kahumsa</string>
+    <string name="cantlogin">Rakkoo mudateera. Seenun hin dandahamu!</string>
+    <string name="swwcantlog">Rakkoo mudateera. Seenun hin dandahamu!</string>
+    <string name="datanotinsrtd">Rakkoo mudateera. Unkii hin seenne!</string>
+    <string name="msure">Lakkofsi dhoksaa sirrii tahu beekuuf kan dura waliin walfakkataa tahu mirkaneeffadhu!</string>
+    <string name="fillall">Ulaagaa hunda guuti</string>
+    <string name="swwwdwninsrtd">Rakkoo mudateera. Seenun hin dandahamu!</string>
+    <string name="sentsucces">Yaadni bifa milkaayee ergaame</string>
+    <string name="swwmdatanot">Rakkoo mudateera. Seenun hin dandahamu!</string>
+    <string name="msgsentt">Ergaan galeera</string>
+    <string name="swentwro">Rakkoo mudateera. Seenun hin dandahamu!</string>
+    <string name="messagsnt">Ergaan galeera</string>
+    <string name="swnetwrong">Rakkoo mudateera. Seenun hin dandahamu!</string>
+    <string name="commsentsucss">Yaadni bifa milkaayee ergaame</string>
+    <string name="smntwentwrogn">Rakkoo mudateera. Seenun hin dandahamu!</string>
+    <string name="msgsented">Ergaan galeera</string>
+    <string name="change_languagem">Qooqa jijjirii</string>
+    <string name="change_languagel">Qooqa jijjirii</string>
+    <string name="change_languagec">Qooqa jijjirii</string>
+    <string name="respage">Fuula galmee</string>
+</resources>

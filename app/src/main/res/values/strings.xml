@@ -1,0 +1,146 @@
+<resources>
+    <string name="app_name">BZHC</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Change Language</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="lawyer">Lawyer</string>
+    <string name="client">Client</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="about_us">About Us</string>
+    <string name="exit">Exit</string>
+    <string name="register">Register</string>
+    <string name="title_activity_clienthome">Clienthome</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_lawyerhome">lawyerhome</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="progress_detail" />
+    <string name="view_appointmnet">view Appointment</string>
+    <string name="give_appointment_comment">Give Appointment Comment</string>
+    <string name="communicate">Communicate</string>
+    <string name="client_name">Client name</string>
+    <string name="email">Email</string>
+    <string name="contact_no">Contact number</string>
+    <string name="fetch_match_data">Fetch Match Data</string>
+    <string name="enter_your_fullname">Enter your full name</string>
+    <string name="enter_your_address">Enter your address</string>
+    <string name="enter_your_city">Enter your city</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="enter_correct_email">Enter Correct Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_password_again">Enter Password Again</string>
+    <string name="registerl">Register</string>
+    <string name="already_have_account_login_here">already have account? Login here</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_correct_emaill">Enter Correct Email</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="write_your_appointment_comment_here">write your appointment comment here</string>
+    <string name="submit">Submit</string>
+    <string name="enter_your_namec">Enter your name</string>
+    <string name="enter_correct_emailc">Enter Correct Email</string>
+    <string name="enter_your_phone_numberc">Enter your phone number</string>
+    <string name="write_your_subject_herec">write your subject here</string>
+    <string name="submitc">Submit</string>
+    <string name="enter_your_namecu">Enter your name</string>
+    <string name="enter_correct_emailcu">Enter Correct Email</string>
+    <string name="enter_your_phone_numbercu">Enter your phone number</string>
+    <string name="write_your_subject_herecu">write your subject here</string>
+    <string name="submitcu">Submit</string>
+    <string name="case_typel">Case Type</string>
+    <string name="lawyer_namel">Lawyer Name</string>
+    <string name="fetch_match_datal">Fetch Match Data</string>
+    <string name="enter_correct_emailll">Enter Correct Email</string>
+    <string name="enter_passwordl">Enter Password</string>
+    <string name="loginl">Login</string>
+    <string name="enter_your_namelc">Enter your name</string>
+    <string name="enter_correct_emaillc">Enter Correct Email</string>
+    <string name="enter_your_phone_numberlc">Enter your phone number</string>
+    <string name="write_your_appointment_comment_herelc">write your appointment comment here</string>
+    <string name="submitlc">Submit</string>
+    <string name="enter_your_namelcu">Enter your name</string>
+    <string name="enter_correct_emaillcu">Enter Correct Email</string>
+    <string name="enter_your_phone_numberlcu">Enter your phone number</string>
+    <string name="write_your_subject_herelcu">write your subject here</string>
+    <string name="submitlcu">Submit</string>
+    <string name="enter_correct_emailcl">Enter Correct Email</string>
+    <string name="enter_passwordcl">Enter Password</string>
+    <string name="logincl">Login</string>
+    <string name="if_you_don_t_have_an_account_yet_register_here">If you do not have an account yet,register here.</string>
+    <string name="contact_uscl">Contact Us</string>
+    <string name="view_appointmnetlr">view Appointment</string>
+    <string name="give_appointment_commentlr">Give Appointment Comment</string>
+    <string name="communicatelr">Communicate</string>
+    <string name="contact_uslr">Contact Us</string>
+    <string name="loginh">Login</string>
+    <string name="changeh">Change</string>
+    <string name="communicateh">Communicate</string>
+    <string name="shareusing">Share Using</string>
+    <string name="shareusingl">Share Using</string>
+    <string name="shareusingh">Share Using</string>
+    <string name="lawyerName">Lawyer Name =</string>
+    <string name="appdate">Appointment Date=</string>
+    <string name="apptime">Appointment Time=</string>
+    <string name="plsenterdetail">Please Enter Detail</string>
+    <string name="pleaseenter">Please Enter Detail</string>
+    <string name="cltname">Client Name =</string>
+    <string name="cltema">Client Email =</string>
+    <string name="cltadd">Client Address =</string>
+    <string name="cltapp">Appointment Date=</string>
+    <string name="clttim">Appointment Time=</string>
+    <string name="cum">Contact Us</string>
+    <string name="gacm">Give Appointment Comment</string>
+    <string name="sappm">Search Appointment</string>
+    <string name="contusm">Contact Us</string>
+    <string name="givcomm">Give Appointment Comment</string>
+    <string name="sapptmtm">Search Appointment</string>
+    <string name="lawrhpagm">Lawyer Home Page</string>
+    <string name="clthmpgm">Client Home Page</string>
+    <string name="aboutussss">About Us</string>
+    <string name="contacttusm">Contact US</string>
+    <string name="hommme">Home</string>
+    <string name="cantlogin">Something went wrong. Cannot login.</string>
+    <string name="swwcantlog">Something went wrong. Cannot login.</string>
+    <string name="datanotinsrtd">Something went wrong. Data was not inserted.</string>
+    <string name="msure">Make sure your password is the same to confirm password</string>
+    <string name="fillall">Fill out all the fields</string>
+    <string name="swwwdwninsrtd">Something went wrong. Data was not inserted.</string>
+    <string name="sentsucces">Comment Sent Successfully.</string>
+    <string name="swwmdatanot">Something went wrong. Data was not inserted.</string>
+    <string name="msgsentt">Message sent</string>
+    <string name="swentwro">Something went wrong. Data was not inserted.</string>
+    <string name="messagsnt">Message sent</string>
+    <string name="swnetwrong">Something went wrong. Data was not inserted.</string>
+    <string name="commsentsucss">Comment Sent Successfully.</string>
+    <string name="smntwentwrogn">Something went wrong. Data was not inserted.</string>
+    <string name="msgsented">Message sent</string>
+    <string name="change_languagem">Change Language</string>
+    <string name="change_languagel">Change Language</string>
+    <string name="change_languagec">Change Language</string>
+    <string name="respage">Registration page</string>
+
+</resources>
